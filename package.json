@@ -1,0 +1,23 @@
+{
+  "name": "web-socket-chat",
+  "version": "1.0.0",
+  "description": "real time chat uygulaması",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunus-sen/web-socket-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunus-sen/web-socket-chat/issues"
+  },
+  "homepage": "https://github.com/yunus-sen/web-socket-chat#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
